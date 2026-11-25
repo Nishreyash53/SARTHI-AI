@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+
+# Environment and Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend (React / Vite)
+node_modules/
+dist/
+dist-ssr/
+build/
+*.local
+.eslintcache
+
+# Generated Files, Logs, Backups & Cache
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.cache/
+backend/SARTHI_*_Report.pdf
+*_corrupt_backup.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Database Dumps, Deployment Archives & CLI State
+*.sql
+*.zip
+.netlify/
