@@ -1,7 +1,5 @@
 # S.A.R.T.H.I. — Soldier Assessment, Readiness, Training & Health Intelligence
 
-> **Academic Research & Decision-Support System** (displayed in the command portal and PDF dossiers as *Soldier AI Readiness, Tracking, Health & Intelligence*)
-
 [![Frontend](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208%20%2B%20Tailwind%20v4-38BDF8)](#technology-stack)
 [![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20Uvicorn-059669)](#technology-stack)
 [![Database](https://img.shields.io/badge/Database-MySQL%208%20%2B%20SQLAlchemy-2563EB)](#database-architecture)
