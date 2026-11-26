@@ -46,3 +46,4 @@ desktop.ini
 *.sql
 *.zip
 .netlify/
+.vercel/

@@ -6,6 +6,7 @@ pydantic==2.14.3
 # Database & Environment Configuration
 SQLAlchemy==2.1.9
 PyMySQL==1.2.4
+psycopg[binary]>=3.2,<4
 python-dotenv==1.2.4
 
 # Machine Learning & Data Processing

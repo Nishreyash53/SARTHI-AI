@@ -1,0 +1,31 @@
+# Local virtualenvs and Node dependencies
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+
+# Large unused model artifacts & duplicate top-level models dir
+/models/
+backend/models/Model_1/sarthi_model1_activity_v2.joblib
+backend/models/Model_1/*_corrupt_backup.joblib
+
+# Local secrets, dumps, archives, and temporary files
+.env
+.env.*
+*.local
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+*.sql
+*.zip
+*.log
+*.bak
+backend/*.pdf
+.git/
+.netlify/
+.vercel/
+.vscode/
+.idea/
